@@ -1,0 +1,234 @@
+1 1
+KFC Spoon [JV]
+Utensil
+It's a spoon
+10 9999.00
+
+2 1
+KFC Chicken [JV]
+Food
+kentucky fried
+10 100.00
+
+3 1
+KFC Spork [JV]
+Utensil
+It's a spork
+16 36.00
+
+4 1
+KFC Gravy Pump [JV]
+Machine
+Not stolen trust
+5 10000.00
+
+5 1
+KFC Hashbrown [JV]
+Food
+staple breakfast food
+24 100.00
+
+6 1
+KFC Fork [JV]
+Utensil
+It's a fork
+10 9998.00
+
+7 2
+Fireworks [Yoi]
+Explosives
+Fleeting joy
+78 100.00
+
+8 2
+FireworkCoupon [Yoi]
+Hopium
+Recipe for firework
+100 10.00
+
+9 2
+Sparkler [Yoi]
+Explosives
+Sparkling joy
+1000 30.00
+
+10 4
+PlusCoupon [Pry]
+Hopium
+Adds points to grade
+20 999.00
+
+11 4
+Laptop [Pry]
+Machine
+Portable computing device
+3 30000.00
+
+12 3
+Masks [Xiao]
+Accessory
+Lot's of karmic debt
+0 100000.00
+
+13 5
+Chestnut [Che]
+Food
+Good source of antioxidants
+200 30.00
+
+14 5
+Peanut [Che]
+Food
+peanut peanut peanut
+100 10.00
+
+15 6
+Apple [Stan]
+Food
+an apple a day..
+78 20.00
+
+16 6
+Orange [Stan]
+Food
+an orange a day?
+100 25.00
+
+17 6
+Banana [Stan]
+Food
+minion treat
+100 30.00
+
+18 7
+Bad Jokes [Cyno]
+Hopium
+will make u cry
+10000 10.00
+
+19 8
+Knowledge [Nahida]
+Hopium
+brain go big
+100 10000.00
+
+20 9
+Alcohol [Venti]
+Food
+brain go woosh
+0 2500.00
+
+21 9
+Poem [Venti]
+Art
+well written poem
+10 1500.00
+
+22 10
+Grilled Fish [Kaz]
+Food
+fresh off the grill
+15 70.00
+
+23 11
+Genshin fact [Mic]
+Hopium
+quest info
+195 10.00
+
+24 12
+Coffin [HT]
+Storage
+will last long
+100 10000.00
+
+25 12
+WFP Coupon [HT]
+Hopium
+Offers discounts
+100 100.00
+
+26 13
+BOOM [Abby]
+Explosives
+dynamite?
+10 1000.00
+
+27 14
+Dance [Nilou]
+Art
+makes u happy
+4 1000.00
+
+28 15
+Cookies [Rac]
+Food
+They're moving
+10 1000.00
+
+29 16
+McDo Chicken [Mat]
+Food
+Juicy fried chicken
+100 100.00
+
+30 17
+Acorn [Alvin]
+Food
+nut
+1000 30.00
+
+31 18
+Fedora [Perry]
+Accessory
+a platypus?
+1 10000.00
+
+32 19
+Nuke [Eula]
+Explosives
+crits occasionally
+20 10000.00
+
+33 20
+Jellyfish [Koko]
+Animal
+Really nice ball
+45 200.00
+
+34 20
+Squid [Koko]
+Animal
+inky
+48 125.55
+
+35 20
+Gorou [Koko]
+Animal
+tiny fish
+31 55.00
+
+36 20
+Betta [Koko]
+Animal
+pretty fish
+50 200.00
+
+37 15
+Painting [Rac]
+Art
+realistic bread
+5 1000.00
+
+40 1
+Worst Icecream
+Food
+Dont even tryy
+0 49.00
+
+44 20
+Moonlight Everglow
+5 star catalyst
+Really nice ball
+6 6999.99
+
